@@ -1,0 +1,15 @@
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: large;
+}
+ul{
+    list-style: none;
+    justify-content: center;
+
+}
+
+li{
+    display: inline;
+    padding: 20px;
+}

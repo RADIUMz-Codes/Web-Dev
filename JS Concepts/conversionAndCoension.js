@@ -8,4 +8,3 @@ if(2){}// implicit
 if(!!2){}//implicit
 if(2 || 'hello');//implicit
 // If we convert any user defined data types to boolean its value becomes true
-
